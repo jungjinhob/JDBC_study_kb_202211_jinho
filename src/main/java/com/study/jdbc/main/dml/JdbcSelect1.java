@@ -1,4 +1,4 @@
-package main.java.com.study.jdbc.main;
+package main.java.com.study.jdbc.main.dml;
 
 
 import java.sql.Connection;
@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 import main.java.com.study.jdbc.util.DBConnection;
 
-public class JdbcTest1 {
+public class JdbcSelect1 {
 
 	public static void main(String[] args) {
 
